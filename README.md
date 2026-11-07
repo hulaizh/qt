@@ -1,1 +1,1 @@
-# qt
+# Agentic Quant System
